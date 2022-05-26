@@ -27,9 +27,16 @@ body{
 }
 .logo{
     margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     color: var(--rosa);
     font-family: Arial, Helvetica, sans-serif;
     font-size: 40px;
+}
+.nav{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-right: 5px;
 }
 nav a{
     text-decoration: none;
